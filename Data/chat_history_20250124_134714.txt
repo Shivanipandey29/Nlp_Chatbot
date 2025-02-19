@@ -1,0 +1,12 @@
+You: Hey , Who are you ?
+Bot: Greetings! I'm an AI chatbot created to offer personalized guidance on fitness, nutrition, and recovery strategies.
+
+You: Who created you ?
+Bot: Shivani Pandey is the brilliant mind behind my creation. Currently,Shivani is pursuing a Master's degree in AI & ML from Pune University
+
+You: Which medicine to take if i get a mild fever
+Bot: To treat a fever at home: 1)Drink plenty of fluids to stay hydrated. 2)Dress in lightweight clothing. 3)Use a light blanket if you feel chilled, until the chills end. 4)Take acetaminophen (Tylenol, others) or ibuprofen (Advil, Motrin IB, others). 5) Get medical help if the fever lasts more than five days in a row.
+
+You: how to give a cpr
+Bot: 1)For an adult or child, place the heel of one hand on the center of the chest at the nipple line. You can also push with one hand on top of the other. For an infant, place two fingers on the breastbone. 2)For an adult or child, press down at least 2 inches. Make sure not to press on ribs. For an infant, press down about 1 and 1/2 inches. Make sure not to press on the end of the breastbone. 3)Do chest compressions only, at the rate of 100-120 per minute or more. Let the chest rise completely between pushes. 4)Check to see if the person has started breathing.
+
